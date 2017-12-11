@@ -1,0 +1,72 @@
+{
+  "todos": [
+    {
+      "id": "afb01be2-759e-4480-a9ec-6ff81a611834",
+      "name": "Nope",
+      "completed": false
+    }
+  ],
+  "Product": [],
+  "Order": [],
+  "User": [],
+  "product": [
+    {
+      "id_product": "b855074b-c74f-4b19-b338-66268cd4194c",
+      "title": "le 21eme monde",
+      "description": "devi,e",
+      "price": 21,
+      "stock": 4
+    },
+    {
+      "id_product": "83663221-9e85-445f-b654-d22b19fe94ed",
+      "title": "le 21eefzfme monde",
+      "description": "devine",
+      "price": 21,
+      "stock": 0
+    },
+    {
+      "id_product": "92b0724a-bf92-4ba5-b3b7-f681fcaf53a7",
+      "title": "le monde",
+      "description": "deve",
+      "price": 21,
+      "stock": 0
+    }
+  ],
+  "order": [
+    {
+      "id_order": "3f98e7df-28a4-4fab-bd8e-cc58208373a4",
+      "product": "b855074b-c74f-4b19-b338-66268cd4194c",
+      "id_user": "e5f906e8-5c7c-4d2b-98c6-d42d385af2e2",
+      "quantity": 1,
+      "valid": true
+    },
+    {
+      "id_order": "6f50da9d-6666-406f-ab20-8f623d6ae6d6",
+      "product": "",
+      "id_user": "e5f906e8-5c7c-4d2b-98c6-d42d385af2e2",
+      "quantity": 0,
+      "valid": false
+    },
+    {
+      "id_order": "7c0a09a3-0e18-46ee-9411-d252df5d3314",
+      "product": "",
+      "id_user": "e5f906e8-5c7c-4d2b-98c6-d42d385af2e2",
+      "quantity": 0,
+      "valid": false
+    }
+  ],
+  "user": [
+    {
+      "id": "e5f906e8-5c7c-4d2b-98c6-d42d385af2e2",
+      "email": "ok@gmail.com",
+      "lastName": "ça change ?",
+      "firstName": "J('t'AI"
+    },
+    {
+      "id": "1f2d2250-ca3f-4215-a07d-c814ebd25ff7",
+      "email": "ok@gmail.com",
+      "lastName": "Ot'(t'(UI",
+      "firstName": "J('t'AI"
+    }
+  ]
+}
